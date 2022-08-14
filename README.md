@@ -17,4 +17,4 @@ Now you can see others secrets which they have posted anonymously and can also p
 ![SC4](https://user-images.githubusercontent.com/72756692/152388828-9d3750e5-ecb6-4ba1-a7f2-fc2fe2e42c6d.png)
 
 After all this you can simply logout.
-Note it used COOKIES to store your login session. 
+Note it uses COOKIES to store your login session. 
